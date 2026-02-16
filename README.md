@@ -232,7 +232,7 @@ az containerapp create \
 * **Frontend**
 
   ```
-  https://crud-frontend.<env>.azurecontainerapps.io
+  https://crud-frontend.wittybush-edcbbf0f.eastus.azurecontainerapps.io/
   ```
 
 ---
@@ -260,13 +260,7 @@ az containerapp create \
 
 ## 12. 👨‍💻 Autor
 
-**Proyecto desarrollado como ejercicio práctico de arquitectura cloud, contenedores y despliegue fullstack en Azure.**
+**Proyecto desarrollado como ejercicio práctico de arquitectura cloud, contenedores y despliegue fullstack en Azure. Por rafch17**
 
 ---
-
-Si quieres, en el siguiente mensaje puedo:
-
-* convertir esto en **PDF**
-* adaptarlo a **formato universitario**
-* agregar **diagramas**
-* o hacerlo más **ejecutivo / empresarial**
+![alt text](image.png)
