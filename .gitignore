@@ -52,3 +52,27 @@ Thumbs.db
 # Docker artifacts
 ############################
 *.tar
+############################
+# Terraform
+############################
+
+# Local .terraform directories
+.terraform/
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform plan files
+*.tfplan
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Terraform CLI configuration
+.terraformrc
+terraform.rc
+
+# Variable files (sec
